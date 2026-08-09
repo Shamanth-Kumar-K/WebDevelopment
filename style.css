@@ -1,0 +1,20 @@
+*{
+    margin: 3px;
+    padding: 2px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: red;
+}
+img{
+    width: 344px;
+    height: 344px;
+    border: 2px solid rgb(203, 31, 226);
+    border-radius: 50%;
+}
