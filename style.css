@@ -46,3 +46,11 @@ nav {
     display: flex;
     justify-content: space-around;
 }
+article{
+    border: 1px solid red;
+    margin: 4px;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
