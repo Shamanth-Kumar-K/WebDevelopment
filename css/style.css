@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+img {
+    width: 344px;
+    height: 344px;
+    border: 2px solid rgb(203, 31, 226);
+    border-radius: 50%;
+}
+
+section {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.project-link {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.skills-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;;
+}
+
+.project-cards{
+    border: 2px solid red;
+    width: 300px;
+    height: 300px;
+}
